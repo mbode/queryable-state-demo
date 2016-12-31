@@ -27,8 +27,8 @@
             <version>${flink.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.jgrier.flinkstuff</groupId>
-            <artifactId>flinkstuff-sources</artifactId>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-streaming-scala_2.10</artifactId>
             <version>${flink.version}</version>
         </dependency>
 
